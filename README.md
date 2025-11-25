@@ -63,10 +63,10 @@ Focus: multi-omics integration; PCOS (N-omics), metabolic risk (P-omics), plant 
 **MSc Bioinformatics & Biostatistics — UOC & UB (2022)**
 Thesis: Multi-omics Integration of Polycystic Ovary Syndrome
 
-**MSc Biomedical Engineering — UB (2015)**
+**MSc Biomedical Engineering — UB & UPC (2015)**
 Thesis: Anaemia Detector at Point of Care
 
-**BSc Biomedical Engineering — UB (2014)**
+**BSc Biomedical Engineering — UB & UPC (2014)**
 Thesis: Nanoparticle Detector at Point of Care
 
 ---
