@@ -93,7 +93,7 @@ TFM_project — Scripts and exploratory notebooks from my MSc Bioinformatics & B
 integromics_2 — Continuation of the MSc multi-omics integration project (PCOS). Contains extended modelling attempts, exploratory analyses and prototype pipelines leading to later structured work.
 
 
-===
+---
 
 ## Presentations
 
