@@ -2,6 +2,11 @@
 
 # 👋 Edmond Géraud Aguilar
 
+### 🔬 Computational Biology • Multi-Omics Integration • Bayesian Modelling
+
+**Research focus:** probabilistic models for multi-omics integration, latent factor models, clinical genomics, HPC workflows.
+
+
 **Data Scientist · Bioinformatics · Multi-Omics Integration · Machine Learning**
 
 📍 Ecuador
