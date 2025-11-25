@@ -80,6 +80,20 @@ Thesis: Nanoparticle Detector at Point of Care
 **Other:** Power BI, image/signal processing, scientific communication, teaching
 
 ---
+## Selected Projects
+
+metatest_final — Structured framework for multi-omics integration using MOFA2 + supervised modelling. Includes latent factor analysis, feature selection and classification pipelines applied to metabolic risk datasets.
+
+repo_cedia — Whole-exome sequencing (WES) diagnostic pipeline developed and used in the laboratory. R/Bash workflow for alignment, QC, variant calling, annotation and reporting.
+
+CNV_exomes — Complementary CNV detection workflow for exome data. Implements coverage-based CNV calling, QC, segmentation and integration into the diagnostic WES pipeline.
+
+TFM_project — Scripts and exploratory notebooks from my MSc Bioinformatics & Biostatistics final project, focused on multi-omics integration (transcriptomics, metabolomics, clinical data) including MOFA2..
+
+integromics_2 — Continuation of the MSc multi-omics integration project (PCOS). Contains extended modelling attempts, exploratory analyses and prototype pipelines leading to later structured work.
+
+
+===
 
 ## Presentations
 
@@ -98,5 +112,9 @@ Spanish (Native) · Catalan (Native) · English (B2)
 
 If you would like to discuss collaborations, research opportunities, or computational multi-omics, feel free to reach out via **email**.
 
+### Selected Projects
+- **metatest_final** — Final structured framework for MOFA2 + supervised modelling (PCOS multi-omics).
+- **repo_cedia** — Real-world WES diagnostic pipeline (R/Bash/SQL).
+- **integromics_2** — Exploratory multi-omics integration workflow used during MSc research.
 
 
