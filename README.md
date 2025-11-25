@@ -1,4 +1,4 @@
----
+
 
 # 👋 Edmond Géraud Aguilar
 
@@ -8,7 +8,7 @@
 📞 +593 963500658
 ✉️ [eddgeag@gmail.com](mailto:eddgeag@gmail.com) · [egeraud@uoc.edu](mailto:egeraud@uoc.edu) · [egeraud@doctor.upv.es](mailto:egeraud@doctor.upv.es)
 
----
+
 
 ## About me
 
