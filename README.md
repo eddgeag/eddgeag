@@ -44,13 +44,13 @@ HPC WES pipeline (R/Bash); Sanger automation; SQL + PowerBI; nutrigenomics.
 **KAUST (Remote) — Bioinformatician (2021)**
 MOFA2 Bayesian multi-omics integration for leukemia biomarker discovery.
 
-**IBEC — Bioinformatician (2020–2021)**
+**IBEC — Bioinformatician (2019–2020)**
 R pipelines for fraud detection in food samples.
 
-**Fluttr — Data Scientist (2020–2021)**
+**Fluttr — Data Scientist (2017–2019)**
 Machine-learning models for intelligent recruitment.
 
-**IDIBAPS — Bioinformatician (2019–2020)**
+**IDIBAPS — Bioinformatician (2015–2017)**
 Neuronal signal processing; entropy-based metrics.
 
 ---
