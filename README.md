@@ -95,10 +95,16 @@ integromics_2 — Continuation of the MSc multi-omics integration project (PCOS)
 
 ---
 
-## Presentations
+## Presentations &  papers
 
 Two talks derived from PhD research on multi-omics analysis of PCOS
 Authors: *E. Géraud-Aguilar et al.* (UPV, Ramón y Cajal / CIBERDEM, CIPF)
+
+Multi-omics factor analysis v2 (MOFA+) reveals specific co-variation patterns in women with PMOS that are strongly influenced by obesity 
+Edmond Géraud-Aguilar , M Ángeles Martínez-García , María Insenser , Susana Barceló-Cerdá , Manuel Luque-Ramírez , Francisco García-García , Héctor F Escobar-Morreale. https://academic.oup.com/hropen/article/2026/4/hoag080/8788611
+
+
+
 
 ---
 
